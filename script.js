@@ -1,0 +1,3 @@
+Script criado no terceiro commit do git...
+
+NOVA LINHA BRANCH TESTE..

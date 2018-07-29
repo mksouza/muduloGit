@@ -2,7 +2,15 @@ MEU PRIMEIRO SISTEMA USANDO O GIT...!!!!
 
 
 
-alterando este arquivo no branch master.... Segundo commit no branch master...
+Novo comando git def ...
+teste...
+
+
+nova linha de teste - corrigindo: o comando para acessar historico de alteracao de uma arquivo se chama: git diff...
+
+
+
+
 
 
 
